@@ -1,0 +1,77 @@
+{
+  "limitBytes": 8388608,
+  "totalBytes": 4419406,
+  "remainingBytes": 3969202,
+  "files": 92,
+  "exportedFiles": 20,
+  "ignoreBudgetBytes": 1024,
+  "ignoreActualBytes": 180,
+  "violations": [],
+  "pathBudgets": [
+    {
+      "path": "dist/**",
+      "limitBytes": 3145728,
+      "actualBytes": 2044390
+    },
+    {
+      "path": "artifacts/**",
+      "limitBytes": 2097152,
+      "actualBytes": 1133815
+    },
+    {
+      "path": "source, manifests, docs, public assets and other allowed files",
+      "limitBytes": 3145728,
+      "actualBytes": 1241201
+    }
+  ],
+  "largestFiles": [
+    {
+      "path": "dist/assets/index-D8DPgUqS.js",
+      "bytes": 725566
+    },
+    {
+      "path": "artifacts/screenshots/claim-review.png",
+      "bytes": 593310
+    },
+    {
+      "path": "dist/assets/index-CwtxFaRJ.js",
+      "bytes": 429311
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 325267
+    },
+    {
+      "path": "dist/assets/index-BUdomd_f.js",
+      "bytes": 295403
+    },
+    {
+      "path": "artifacts/screenshots/mobile-390.png",
+      "bytes": 186332
+    },
+    {
+      "path": "artifacts/screenshots/desktop-1440.png",
+      "bytes": 150257
+    },
+    {
+      "path": "dist/assets/ibm-plex-mono-400.ttf",
+      "bytes": 128812
+    },
+    {
+      "path": "public/assets/ibm-plex-mono-400.ttf",
+      "bytes": 128812
+    },
+    {
+      "path": "dist/assets/barlow-condensed-600.ttf",
+      "bytes": 86636
+    },
+    {
+      "path": "public/assets/barlow-condensed-600.ttf",
+      "bytes": 86636
+    },
+    {
+      "path": "dist/assets/quicksand-400.ttf",
+      "bytes": 73224
+    }
+  ]
+}

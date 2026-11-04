@@ -1,0 +1,488 @@
+{
+  "checkedAt": "2026-11-04T02:57:21.470Z",
+  "source": "https://ethereum-sepolia-rpc.publicnode.com",
+  "blockNumber": "12059586",
+  "blockHash": "0x9fbc152b62f12b013e193cc140cdfc8fe949c6821799e906990a9593a1a8e2d9",
+  "holder": "0x7f8Cd6A535072AC099623a879cF93cBdAA4F513d",
+  "portfolio": {
+    "nfts": [
+      {
+        "id": "1",
+        "position": {
+          "activeWeight": "1000",
+          "pendingWeight": "0",
+          "pendingRound": 0,
+          "nextMergeBlock": 4142,
+          "level": 1,
+          "lastIndex": "78171941441519291638307555762083474810297969621788927662243",
+          "accruedScaled": "2120193564157228808097184499513006622727793621788927662243000"
+        },
+        "claimable": "6230688893291484144644"
+      },
+      {
+        "id": "2",
+        "position": {
+          "activeWeight": "1000",
+          "pendingWeight": "0",
+          "pendingRound": 0,
+          "nextMergeBlock": 4142,
+          "level": 1,
+          "lastIndex": "78171941441519291638307555762083474810297969621788927662243",
+          "accruedScaled": "2120193564157228808097184499513006622727793621788927662243000"
+        },
+        "claimable": "6230688893291484144644"
+      },
+      {
+        "id": "3",
+        "position": {
+          "activeWeight": "1000",
+          "pendingWeight": "0",
+          "pendingRound": 0,
+          "nextMergeBlock": 4142,
+          "level": 1,
+          "lastIndex": "78171941441519291638307555762083474810297969621788927662243",
+          "accruedScaled": "2120193564157228808097184499513006622727793621788927662243000"
+        },
+        "claimable": "6230688893291484144644"
+      },
+      {
+        "id": "4",
+        "position": {
+          "activeWeight": "1000",
+          "pendingWeight": "0",
+          "pendingRound": 0,
+          "nextMergeBlock": 4142,
+          "level": 1,
+          "lastIndex": "78171941441519291638307555762083474810297969621788927662243",
+          "accruedScaled": "2120193564157228808097184499513006622727793621788927662243000"
+        },
+        "claimable": "6230688893291484144644"
+      },
+      {
+        "id": "5",
+        "position": {
+          "activeWeight": "1000",
+          "pendingWeight": "0",
+          "pendingRound": 0,
+          "nextMergeBlock": 4142,
+          "level": 1,
+          "lastIndex": "78171941441519291638307555762083474810297969621788927662243",
+          "accruedScaled": "2120193564157228808097184499513006622727793621788927662243000"
+        },
+        "claimable": "6230688893291484144644"
+      },
+      {
+        "id": "6",
+        "position": {
+          "activeWeight": "1000",
+          "pendingWeight": "0",
+          "pendingRound": 0,
+          "nextMergeBlock": 4142,
+          "level": 1,
+          "lastIndex": "78171941441519291638307555762083474810297969621788927662243",
+          "accruedScaled": "2120193564157228808097184499513006622727793621788927662243000"
+        },
+        "claimable": "6230688893291484144644"
+      },
+      {
+        "id": "7",
+        "position": {
+          "activeWeight": "1000",
+          "pendingWeight": "0",
+          "pendingRound": 0,
+          "nextMergeBlock": 4142,
+          "level": 1,
+          "lastIndex": "78171941441519291638307555762083474810297969621788927662243",
+          "accruedScaled": "2120193564157228808097184499513006622727793621788927662243000"
+        },
+        "claimable": "6230688893291484144644"
+      },
+      {
+        "id": "8",
+        "position": {
+          "activeWeight": "1000",
+          "pendingWeight": "0",
+          "pendingRound": 0,
+          "nextMergeBlock": 4142,
+          "level": 1,
+          "lastIndex": "78171941441519291638307555762083474810297969621788927662243",
+          "accruedScaled": "2120193564157228808097184499513006622727793621788927662243000"
+        },
+        "claimable": "6230688893291484144644"
+      },
+      {
+        "id": "9",
+        "position": {
+          "activeWeight": "1000",
+          "pendingWeight": "0",
+          "pendingRound": 0,
+          "nextMergeBlock": 4142,
+          "level": 1,
+          "lastIndex": "78171941441519291638307555762083474810297969621788927662243",
+          "accruedScaled": "2120193564157228808097184499513006622727793621788927662243000"
+        },
+        "claimable": "6230688893291484144644"
+      },
+      {
+        "id": "10",
+        "position": {
+          "activeWeight": "1000",
+          "pendingWeight": "0",
+          "pendingRound": 0,
+          "nextMergeBlock": 4142,
+          "level": 1,
+          "lastIndex": "78171941441519291638307555762083474810297969621788927662243",
+          "accruedScaled": "2120193564157228808097184499513006622727793621788927662243000"
+        },
+        "claimable": "6230688893291484144644"
+      }
+    ],
+    "eth": "152688188965992830",
+    "sqk": "0",
+    "claimable": "62306888932914841446441",
+    "snapshot": {
+      "blockNumber": "12059586",
+      "blockHash": "0x9fbc152b62f12b013e193cc140cdfc8fe949c6821799e906990a9593a1a8e2d9",
+      "timestamp": "1793761032",
+      "identities": [
+        {
+          "name": "Core",
+          "implementation": "0x0a71C86ab63a77675002A389FDF4D096A07b11e2",
+          "admin": "0x05A9Af6c3F6780DD58168f2e145cDD0d64564A5E",
+          "version": "3",
+          "runtimeHash": "0xe8a5a5aa913141ddd8951cf9fcc1375044b541773e5b0bf8ee04a5c7ac2d194d",
+          "layout": "0x9a9c008e029460808209571703fbf2679785874e0e6d3232f16a864d12abcb20"
+        },
+        {
+          "name": "Mining",
+          "implementation": "0x08890b360C65FD878344Bf6e23d1c36358433B4E",
+          "admin": "0x7369D930f8Dfb7a6657578EdA5906d3472E4Ac9a",
+          "version": "6",
+          "runtimeHash": "0x6097cf8e8f96ea654878ab0a35410240ab1b05668c08ce1b3f99e04116e88bc1",
+          "layout": "0xace564e9c052f30122779a32fdf3333ebce7cc708eae9c01cb7875b4f6ad37a6"
+        }
+      ],
+      "policy": {
+        "nft": "0x0eAF3E0d40A0a8E5a6Ac030b2459E9FB0B7905c6",
+        "maxSupply": 9999,
+        "maximumLevel": 10,
+        "levels": [
+          {
+            "weight": "1000",
+            "cooldownBlocks": "2"
+          },
+          {
+            "weight": "3000",
+            "cooldownBlocks": "4"
+          },
+          {
+            "weight": "7000",
+            "cooldownBlocks": "6"
+          },
+          {
+            "weight": "15000",
+            "cooldownBlocks": "8"
+          },
+          {
+            "weight": "31000",
+            "cooldownBlocks": "10"
+          },
+          {
+            "weight": "63000",
+            "cooldownBlocks": "12"
+          },
+          {
+            "weight": "127000",
+            "cooldownBlocks": "14"
+          },
+          {
+            "weight": "255000",
+            "cooldownBlocks": "16"
+          },
+          {
+            "weight": "511000",
+            "cooldownBlocks": "18"
+          },
+          {
+            "weight": "1023000",
+            "cooldownBlocks": "0"
+          }
+        ]
+      },
+      "state": {
+        "settledThroughRound": "1973",
+        "cumulativeWork": "148986",
+        "cumulativeBlockUnits": "13095604188187",
+        "blockHeight": "13095",
+        "blockProgress": "604188187",
+        "workPerThousandBlocks": 11266,
+        "authorizationNonce": "1657",
+        "paused": false
+      },
+      "decimals": 18,
+      "configuration": {
+        "streamId": "0xa0186b1a24b217f12f56c8574b492e286d00cd94bb5546cba45b048b19c60e44",
+        "genesisTimestamp": "1791847800",
+        "roundDuration": "600",
+        "maxWorkPerRound": "10000",
+        "maxRoundsPerBatch": 16,
+        "guardian": "0x0E1B21ED2fc5fc48E221D3E863f09589Cb490e73",
+        "reporter": "0xB317AB7Cc24fD5d94EA120B3b189bc6527a7d0Aa",
+        "initialWorkPerThousandBlocks": 10875,
+        "targetBlocksPerActiveRound": "40",
+        "difficultySmoothingRounds": "30",
+        "blockUnitsPerBlock": "1000000000"
+      }
+    },
+    "owner": "0x7f8Cd6A535072AC099623a879cF93cBdAA4F513d"
+  },
+  "transactionsSent": 0,
+  "artwork": {
+    "tokenId": "1",
+    "available": true,
+    "format": "data:image/svg+xml;base64,PHN2ZyB4b"
+  },
+  "claimPreview": {
+    "kind": "claim",
+    "owner": "0x7f8Cd6A535072AC099623a879cF93cBdAA4F513d",
+    "ids": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "reward": "62306888932914841446441",
+    "gas": "1982990",
+    "maxFeePerGas": "42",
+    "maxPriorityFeePerGas": "2",
+    "gasCost": "83285580",
+    "data": "0x5fd53f4c00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000040000000000000000000000000000000000000000000000000000000000000000a000000000000000000000000000000000000000000000000000000000000000100000000000000000000000000000000000000000000000000000000000000020000000000000000000000000000000000000000000000000000000000000003000000000000000000000000000000000000000000000000000000000000000400000000000000000000000000000000000000000000000000000000000000050000000000000000000000000000000000000000000000000000000000000006000000000000000000000000000000000000000000000000000000000000000700000000000000000000000000000000000000000000000000000000000000080000000000000000000000000000000000000000000000000000000000000009000000000000000000000000000000000000000000000000000000000000000a",
+    "snapshot": {
+      "blockNumber": "12059586",
+      "blockHash": "0x9fbc152b62f12b013e193cc140cdfc8fe949c6821799e906990a9593a1a8e2d9",
+      "timestamp": "1793761032",
+      "identities": [
+        {
+          "name": "Core",
+          "implementation": "0x0a71C86ab63a77675002A389FDF4D096A07b11e2",
+          "admin": "0x05A9Af6c3F6780DD58168f2e145cDD0d64564A5E",
+          "version": "3",
+          "runtimeHash": "0xe8a5a5aa913141ddd8951cf9fcc1375044b541773e5b0bf8ee04a5c7ac2d194d",
+          "layout": "0x9a9c008e029460808209571703fbf2679785874e0e6d3232f16a864d12abcb20"
+        },
+        {
+          "name": "Mining",
+          "implementation": "0x08890b360C65FD878344Bf6e23d1c36358433B4E",
+          "admin": "0x7369D930f8Dfb7a6657578EdA5906d3472E4Ac9a",
+          "version": "6",
+          "runtimeHash": "0x6097cf8e8f96ea654878ab0a35410240ab1b05668c08ce1b3f99e04116e88bc1",
+          "layout": "0xace564e9c052f30122779a32fdf3333ebce7cc708eae9c01cb7875b4f6ad37a6"
+        }
+      ],
+      "policy": {
+        "nft": "0x0eAF3E0d40A0a8E5a6Ac030b2459E9FB0B7905c6",
+        "maxSupply": 9999,
+        "maximumLevel": 10,
+        "levels": [
+          {
+            "weight": "1000",
+            "cooldownBlocks": "2"
+          },
+          {
+            "weight": "3000",
+            "cooldownBlocks": "4"
+          },
+          {
+            "weight": "7000",
+            "cooldownBlocks": "6"
+          },
+          {
+            "weight": "15000",
+            "cooldownBlocks": "8"
+          },
+          {
+            "weight": "31000",
+            "cooldownBlocks": "10"
+          },
+          {
+            "weight": "63000",
+            "cooldownBlocks": "12"
+          },
+          {
+            "weight": "127000",
+            "cooldownBlocks": "14"
+          },
+          {
+            "weight": "255000",
+            "cooldownBlocks": "16"
+          },
+          {
+            "weight": "511000",
+            "cooldownBlocks": "18"
+          },
+          {
+            "weight": "1023000",
+            "cooldownBlocks": "0"
+          }
+        ]
+      },
+      "state": {
+        "settledThroughRound": "1973",
+        "cumulativeWork": "148986",
+        "cumulativeBlockUnits": "13095604188187",
+        "blockHeight": "13095",
+        "blockProgress": "604188187",
+        "workPerThousandBlocks": 11266,
+        "authorizationNonce": "1657",
+        "paused": false
+      },
+      "decimals": 18,
+      "configuration": {
+        "streamId": "0xa0186b1a24b217f12f56c8574b492e286d00cd94bb5546cba45b048b19c60e44",
+        "genesisTimestamp": "1791847800",
+        "roundDuration": "600",
+        "maxWorkPerRound": "10000",
+        "maxRoundsPerBatch": 16,
+        "guardian": "0x0E1B21ED2fc5fc48E221D3E863f09589Cb490e73",
+        "reporter": "0xB317AB7Cc24fD5d94EA120B3b189bc6527a7d0Aa",
+        "initialWorkPerThousandBlocks": 10875,
+        "targetBlocksPerActiveRound": "40",
+        "difficultySmoothingRounds": "30",
+        "blockUnitsPerBlock": "1000000000"
+      }
+    },
+    "createdAt": 1793761042018
+  },
+  "mergePreview": {
+    "kind": "merge",
+    "owner": "0x7f8Cd6A535072AC099623a879cF93cBdAA4F513d",
+    "ids": [
+      "1",
+      "2"
+    ],
+    "reward": "12461377786582968289288",
+    "gas": "634258",
+    "maxFeePerGas": "42",
+    "maxPriorityFeePerGas": "2",
+    "gasCost": "26638836",
+    "data": "0xfaf2e326000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000010000000000000000000000000000000000000000000000000000000000000002",
+    "snapshot": {
+      "blockNumber": "12059586",
+      "blockHash": "0x9fbc152b62f12b013e193cc140cdfc8fe949c6821799e906990a9593a1a8e2d9",
+      "timestamp": "1793761032",
+      "identities": [
+        {
+          "name": "Core",
+          "implementation": "0x0a71C86ab63a77675002A389FDF4D096A07b11e2",
+          "admin": "0x05A9Af6c3F6780DD58168f2e145cDD0d64564A5E",
+          "version": "3",
+          "runtimeHash": "0xe8a5a5aa913141ddd8951cf9fcc1375044b541773e5b0bf8ee04a5c7ac2d194d",
+          "layout": "0x9a9c008e029460808209571703fbf2679785874e0e6d3232f16a864d12abcb20"
+        },
+        {
+          "name": "Mining",
+          "implementation": "0x08890b360C65FD878344Bf6e23d1c36358433B4E",
+          "admin": "0x7369D930f8Dfb7a6657578EdA5906d3472E4Ac9a",
+          "version": "6",
+          "runtimeHash": "0x6097cf8e8f96ea654878ab0a35410240ab1b05668c08ce1b3f99e04116e88bc1",
+          "layout": "0xace564e9c052f30122779a32fdf3333ebce7cc708eae9c01cb7875b4f6ad37a6"
+        }
+      ],
+      "policy": {
+        "nft": "0x0eAF3E0d40A0a8E5a6Ac030b2459E9FB0B7905c6",
+        "maxSupply": 9999,
+        "maximumLevel": 10,
+        "levels": [
+          {
+            "weight": "1000",
+            "cooldownBlocks": "2"
+          },
+          {
+            "weight": "3000",
+            "cooldownBlocks": "4"
+          },
+          {
+            "weight": "7000",
+            "cooldownBlocks": "6"
+          },
+          {
+            "weight": "15000",
+            "cooldownBlocks": "8"
+          },
+          {
+            "weight": "31000",
+            "cooldownBlocks": "10"
+          },
+          {
+            "weight": "63000",
+            "cooldownBlocks": "12"
+          },
+          {
+            "weight": "127000",
+            "cooldownBlocks": "14"
+          },
+          {
+            "weight": "255000",
+            "cooldownBlocks": "16"
+          },
+          {
+            "weight": "511000",
+            "cooldownBlocks": "18"
+          },
+          {
+            "weight": "1023000",
+            "cooldownBlocks": "0"
+          }
+        ]
+      },
+      "state": {
+        "settledThroughRound": "1973",
+        "cumulativeWork": "148986",
+        "cumulativeBlockUnits": "13095604188187",
+        "blockHeight": "13095",
+        "blockProgress": "604188187",
+        "workPerThousandBlocks": 11266,
+        "authorizationNonce": "1657",
+        "paused": false
+      },
+      "decimals": 18,
+      "configuration": {
+        "streamId": "0xa0186b1a24b217f12f56c8574b492e286d00cd94bb5546cba45b048b19c60e44",
+        "genesisTimestamp": "1791847800",
+        "roundDuration": "600",
+        "maxWorkPerRound": "10000",
+        "maxRoundsPerBatch": 16,
+        "guardian": "0x0E1B21ED2fc5fc48E221D3E863f09589Cb490e73",
+        "reporter": "0xB317AB7Cc24fD5d94EA120B3b189bc6527a7d0Aa",
+        "initialWorkPerThousandBlocks": 10875,
+        "targetBlocksPerActiveRound": "40",
+        "difficultySmoothingRounds": "30",
+        "blockUnitsPerBlock": "1000000000"
+      }
+    },
+    "createdAt": 1793761042667,
+    "nextLevel": 2,
+    "nextPower": "3000",
+    "previousPower": "2000"
+  },
+  "emptyWalletRead": {
+    "address": "0x6872BfA5CcC3E9e440C6c16e5fFdAbb8DBA4Cc76",
+    "balance": "0",
+    "nfts": 0
+  },
+  "positionRead": {
+    "activeWeight": "1000",
+    "pendingWeight": "0",
+    "pendingRound": 0,
+    "nextMergeBlock": 4142,
+    "level": 1,
+    "lastIndex": "78171941441519291638307555762083474810297969621788927662243",
+    "accruedScaled": "2120193564157228808097184499513006622727793621788927662243000"
+  }
+}

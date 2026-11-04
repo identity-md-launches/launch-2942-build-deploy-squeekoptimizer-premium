@@ -1,0 +1,103 @@
+{
+  "checkedAt": "2026-11-04T03:18:08.633Z",
+  "source": "Production dist served at /preview/; actual public RPC reads; controlled EIP-6963 account provider; no signing or broadcasting",
+  "results": [
+    {
+      "name": "desktop loads at static subpath with local fonts",
+      "passed": true
+    },
+    {
+      "name": "wallet picker, keyboard Escape and focus return",
+      "passed": true
+    },
+    {
+      "name": "navigation, disconnected claim and merge actions",
+      "passed": true
+    },
+    {
+      "name": "RPC settings validate invalid URL and restore public endpoints",
+      "passed": true
+    },
+    {
+      "name": "390px first screen contains product and main action",
+      "passed": true
+    },
+    {
+      "name": "390px wallet bottom sheet with 44px targets",
+      "passed": true
+    },
+    {
+      "name": "320px, 760px, 990px and 1440px reflow",
+      "passed": true
+    },
+    {
+      "name": "automated accessibility scan on disconnected product",
+      "passed": true
+    },
+    {
+      "name": "phone offers app-browser links and Coinbase Smart Wallet",
+      "passed": true
+    },
+    {
+      "name": "EIP-6963 lists named extension and hides generic injected row",
+      "passed": true
+    },
+    {
+      "name": "wallet connection rejection returns an honest error",
+      "passed": true
+    },
+    {
+      "name": "wallet connection and user-approved Sepolia switching",
+      "passed": true
+    },
+    {
+      "name": "real NFT discovery and artwork for read-only public holder",
+      "passed": true
+    },
+    {
+      "name": "collection filters, search and batch selection",
+      "passed": true
+    },
+    {
+      "name": "live claim simulation, review closes without signing",
+      "passed": true
+    },
+    {
+      "name": "Transaction prompt count at cancellation",
+      "passed": true,
+      "sendTransactionRequests": 1,
+      "broadcasts": 0
+    },
+    {
+      "name": "explicit claim confirmation handles rejection without resubmission",
+      "passed": true
+    },
+    {
+      "name": "merge pair, survivor swap and irreversible confirmation",
+      "passed": true
+    },
+    {
+      "name": "account changes clear NFTs and show verified empty wallet",
+      "passed": true
+    },
+    {
+      "name": "disconnect clears wallet state",
+      "passed": true
+    },
+    {
+      "name": "no runtime script errors or missing local assets",
+      "passed": true
+    },
+    {
+      "name": "RPC failure stays honest and wallet connection remains available",
+      "passed": true
+    },
+    {
+      "name": "WebKit wallet and mobile layout",
+      "passed": null,
+      "limitation": "WebKit could not launch: required system shared libraries are missing."
+    }
+  ],
+  "scriptErrors": [],
+  "missingLocalAssets": []
+}

@@ -1,0 +1,108 @@
+{
+  "export": "dist/",
+  "base": "./",
+  "routing": "hash",
+  "totalBytes": 2044390,
+  "files": [
+    {
+      "path": "dist/assets/barlow-condensed-600.ttf",
+      "bytes": 86636,
+      "sha256": "0d85af813fc3ed87db0c6265515689b2eef5cbaf7aab17922528dfc95a2cd73f"
+    },
+    {
+      "path": "dist/assets/ccip-C_81glwY.js",
+      "bytes": 4322,
+      "sha256": "de040499466eb7ebba9d7841974c551f75345f1136e59bfd2de5700dd0325b1d"
+    },
+    {
+      "path": "dist/assets/hooks.module-DE9oX6xH.js",
+      "bytes": 15835,
+      "sha256": "18290b66f5736ddfcd375526f88fd55c2ecf072d6feee11d3554a78df4a3594f"
+    },
+    {
+      "path": "dist/assets/ibm-plex-mono-400.ttf",
+      "bytes": 128812,
+      "sha256": "a7fdc993f9f0387caedba4e42521136fa97e4c0837ae6239bf0413ccf8af00c2"
+    },
+    {
+      "path": "dist/assets/index-BUdomd_f.js",
+      "bytes": 295403,
+      "sha256": "aafeffc07b1d7e98c03087040e53151d45b753ec9aef42bf5e97c4eaccaab975"
+    },
+    {
+      "path": "dist/assets/index-CwtxFaRJ.js",
+      "bytes": 429311,
+      "sha256": "fc6f8d2c5f969bc6f37075d37e0633d87ec6fcf6049f8765559864e60e1a6e7a"
+    },
+    {
+      "path": "dist/assets/index-D8DPgUqS.js",
+      "bytes": 725566,
+      "sha256": "b3f0ae3cf3766bed66f74dded5ca3bc9fdf1ab0946f83ef63984f09ab0260af7"
+    },
+    {
+      "path": "dist/assets/index-DCOy5R7y.css",
+      "bytes": 51243,
+      "sha256": "43ecfb6adb73e57ae658070b554d2f849209a687d7c87c4de729fe0f9318936a"
+    },
+    {
+      "path": "dist/assets/metaMaskWallet.svg",
+      "bytes": 1665,
+      "sha256": "892c7dfab8c4ca5682878dda3f42f55a75195d7d365e4adb0832845f3a0a2135"
+    },
+    {
+      "path": "dist/assets/phantomWallet.svg",
+      "bytes": 861,
+      "sha256": "f841f8112e131259a2e5123177950099c79487e61e77971f4e193e6c374419eb"
+    },
+    {
+      "path": "dist/assets/quicksand-400.ttf",
+      "bytes": 73224,
+      "sha256": "0977c1d9781e03adfc1b120b3b60b6c4db776b5261e801ec881549cd17894351"
+    },
+    {
+      "path": "dist/assets/quicksand-600.ttf",
+      "bytes": 73140,
+      "sha256": "bbf8f3e2d8eb8434c2b49361ea5712127ce62f0aa3924360cfeeb4740bf08814"
+    },
+    {
+      "path": "dist/assets/quicksand-700.ttf",
+      "bytes": 72916,
+      "sha256": "8fb2148170b16156ad78d9d787a5d98a2c00752f91fc0fe88c9367c0809ecba3"
+    },
+    {
+      "path": "dist/assets/rabbyWallet.svg",
+      "bytes": 2290,
+      "sha256": "dcae4de88ebfa10cffa1fe28df13d7c8c0b40736ef2b704f1f2fc348e777e443"
+    },
+    {
+      "path": "dist/assets/squeek-mascot.svg",
+      "bytes": 35795,
+      "sha256": "cdd208c54eb164ab797439e96f062a0bb0885edbd299c4806c9cc833d4148c41"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "bytes": 413,
+      "sha256": "3375a44b3dfd8a46a5a6a49be2810300cc1f745ec87a5b93c83e5d67f693eb3d"
+    },
+    {
+      "path": "dist/imd-attribution.json",
+      "bytes": 308,
+      "sha256": "ba35d0d994c16da35ec3fd22481686e4f37a4beab2ef35a6193c4ed235a78307"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 1588,
+      "sha256": "37fb3485661576efe17dac50bbc7ffe3b7fb1ac4f4165edeadd041a38d7a360e"
+    },
+    {
+      "path": "dist/og-image.png",
+      "bytes": 43780,
+      "sha256": "63707af19dbcecc07b71c74c6f3ee094b9b0345c84813ca9a405fe5e4a156bc6"
+    },
+    {
+      "path": "dist/og-image.svg",
+      "bytes": 1282,
+      "sha256": "b39e826eb9d99953ef485a9323b5f27452479b5a8c0715a0b5847061fbdd12f1"
+    }
+  ]
+}

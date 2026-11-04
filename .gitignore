@@ -1,0 +1,9 @@
+# Ignore budget: 1024 bytes. Generated dependencies/caches at every depth only.
+!artifacts/
+!artifacts/**
+node_modules/
+.vite/
+.cache/
+*.tsbuildinfo
+test/scratch/
+.playwright-mcp/

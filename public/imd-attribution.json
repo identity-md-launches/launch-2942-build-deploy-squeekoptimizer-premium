@@ -1,0 +1,10 @@
+{
+  "application": "SqueekOptimizer",
+  "jobId": "ceb48beb-6fb5-4aaa-929a-fba9804755a8",
+  "builtThrough": "IMD Swarm",
+  "contributorNetwork": "IdentityMD",
+  "purpose": "Independent Squeekchain Genesis Code holder utility",
+  "chainId": 11155111,
+  "assets": "TESTNET",
+  "genesisApprovalClaimed": false
+}

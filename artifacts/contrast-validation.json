@@ -1,0 +1,109 @@
+{
+  "method": "WCAG 2 luminance calculation from actual CSS. Dot alpha composited over welcome panel; sidebar gradient checked at endpoints. Supplements rendered solid-background probe; not a claim for dynamic NFT artwork.",
+  "results": [
+    {
+      "name": "Muted on surface",
+      "foreground": "#686570",
+      "background": "#f9f9fb",
+      "ratio": 5.42,
+      "minimum": 4.5,
+      "passed": true
+    },
+    {
+      "name": "Text on canvas",
+      "foreground": "#242329",
+      "background": "#ededf1",
+      "ratio": 13.35,
+      "minimum": 4.5,
+      "passed": true
+    },
+    {
+      "name": "Welcome heading on darkest dot",
+      "foreground": "#33291f",
+      "background": "#eeddcc",
+      "ratio": 10.73,
+      "minimum": 3,
+      "passed": true
+    },
+    {
+      "name": "Welcome heading accent on darkest dot",
+      "foreground": "#99582d",
+      "background": "#eeddcc",
+      "ratio": 4.18,
+      "minimum": 3,
+      "passed": true
+    },
+    {
+      "name": "Welcome label on darkest dot",
+      "foreground": "#79543c",
+      "background": "#eeddcc",
+      "ratio": 5.04,
+      "minimum": 4.5,
+      "passed": true
+    },
+    {
+      "name": "Welcome body on darkest dot",
+      "foreground": "#6a5545",
+      "background": "#eeddcc",
+      "ratio": 5.29,
+      "minimum": 4.5,
+      "passed": true
+    },
+    {
+      "name": "Welcome footnote on darkest dot",
+      "foreground": "#7c5c46",
+      "background": "#eeddcc",
+      "ratio": 4.56,
+      "minimum": 4.5,
+      "passed": true
+    },
+    {
+      "name": "Tip heading at gradient start",
+      "foreground": "#67442e",
+      "background": "#f1e6db",
+      "ratio": 6.99,
+      "minimum": 4.5,
+      "passed": true
+    },
+    {
+      "name": "Tip heading at gradient end",
+      "foreground": "#67442e",
+      "background": "#f1edf6",
+      "ratio": 7.44,
+      "minimum": 4.5,
+      "passed": true
+    },
+    {
+      "name": "Tip text at gradient start",
+      "foreground": "#685c57",
+      "background": "#f1e6db",
+      "ratio": 5.24,
+      "minimum": 4.5,
+      "passed": true
+    },
+    {
+      "name": "Tip text at gradient end",
+      "foreground": "#685c57",
+      "background": "#f1edf6",
+      "ratio": 5.58,
+      "minimum": 4.5,
+      "passed": true
+    },
+    {
+      "name": "Burn warning",
+      "foreground": "#93392e",
+      "background": "#faece8",
+      "ratio": 6.36,
+      "minimum": 4.5,
+      "passed": true
+    },
+    {
+      "name": "Testnet badge",
+      "foreground": "#6e537f",
+      "background": "#e8e1ef",
+      "ratio": 5.13,
+      "minimum": 4.5,
+      "passed": true
+    }
+  ]
+}
